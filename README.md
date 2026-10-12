@@ -3,9 +3,6 @@
 My free GitHub Pages portfolio for web security research, projects, and technical writing.
 
 - **Website:** https://0xasmaa.github.io
-- **GitHub:** https://github.com/0xasmaa
-- **Medium:** https://medium.com/@0xasmaa
-- **Instagram:** https://www.instagram.com/0xasmaa/
 
 ## Published with GitHub Pages
 
